@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-21T08:00:50-04:00",
+  "generated_at": "2026-10-22T08:00:50-04:00",
   "instruments": {
     "ES": {
-      "call_wall": 8060.4,
-      "large_gamma_1": 8060.4,
-      "large_gamma_2": 7060.4,
-      "large_gamma_3": 7760.4,
-      "large_gamma_4": 7810.4,
-      "put_wall": 7060.4,
+      "call_wall": 7965.6,
+      "large_gamma_1": 7965.6,
+      "large_gamma_2": 6965.6,
+      "large_gamma_3": 7665.6,
+      "large_gamma_4": 7765.6,
+      "put_wall": 6965.6,
       "vol_trigger": null,
-      "zero_gamma": 7790.4
+      "zero_gamma": 7698.6
     },
     "ES_0DTE": {
-      "call_wall": 7785.4,
-      "large_gamma_1": 7760.4,
-      "large_gamma_2": 7785.4,
-      "large_gamma_3": 7810.4,
-      "large_gamma_4": 7770.4,
-      "put_wall": 7485.4,
+      "call_wall": 7765.6,
+      "large_gamma_1": 7765.6,
+      "large_gamma_2": 7715.6,
+      "large_gamma_3": 7665.6,
+      "large_gamma_4": 7750.6,
+      "put_wall": 7515.6,
       "vol_trigger": null,
-      "zero_gamma": 7788.4
+      "zero_gamma": 7698.6
     },
     "GC": {
       "call_wall": null,
@@ -32,27 +32,27 @@
       "zero_gamma": null
     },
     "NQ": {
-      "call_wall": 30043.2,
-      "large_gamma_1": 30043.2,
-      "large_gamma_2": 30368.2,
-      "large_gamma_3": 29368.2,
-      "large_gamma_4": 29568.2,
-      "put_wall": 28368.2,
+      "call_wall": 29680.7,
+      "large_gamma_1": 29680.7,
+      "large_gamma_2": 29355.7,
+      "large_gamma_3": 28680.7,
+      "large_gamma_4": 30680.7,
+      "put_wall": 27680.7,
       "vol_trigger": null,
-      "zero_gamma": 30036.2
+      "zero_gamma": 29444.7
     },
     "NQ_0DTE": {
-      "call_wall": 29898.2,
-      "large_gamma_1": 29568.2,
-      "large_gamma_2": 29868.2,
-      "large_gamma_3": 29898.2,
-      "large_gamma_4": 30243.2,
-      "put_wall": 26368.2,
+      "call_wall": 29780.7,
+      "large_gamma_1": 29780.7,
+      "large_gamma_2": 29480.7,
+      "large_gamma_3": 29850.7,
+      "large_gamma_4": 29180.7,
+      "put_wall": 28780.7,
       "vol_trigger": null,
-      "zero_gamma": 29878.2
+      "zero_gamma": 29438.7
     }
   },
   "pipeline": "v2.1",
   "schema_version": 1,
-  "session_date": "2026-10-21"
+  "session_date": "2026-10-22"
 }
