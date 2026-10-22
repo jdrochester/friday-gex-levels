@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:48:02-04:00",
+  "generated_at": "2026-10-22T16:03:02-04:00",
   "instruments": {
     "ES": {
       "call_wall": 7965.6,
@@ -9,17 +9,17 @@
       "large_gamma_4": 7765.6,
       "put_wall": 6965.6,
       "vol_trigger": null,
-      "zero_gamma": 7757.5
+      "zero_gamma": 7791.2
     },
     "ES_0DTE": {
-      "call_wall": 7830.1,
+      "call_wall": 7861.8,
       "large_gamma_1": 7765.6,
       "large_gamma_2": 7715.6,
       "large_gamma_3": 7665.6,
       "large_gamma_4": 7750.6,
-      "put_wall": 7730.1,
+      "put_wall": 7761.8,
       "vol_trigger": null,
-      "zero_gamma": 7797.0
+      "zero_gamma": 7910.9
     },
     "GC": {
       "call_wall": null,
@@ -32,24 +32,24 @@
       "zero_gamma": null
     },
     "NQ": {
-      "call_wall": 29767.6,
+      "call_wall": 29940.4,
       "large_gamma_1": 29680.7,
       "large_gamma_2": 29355.7,
       "large_gamma_3": 28680.7,
       "large_gamma_4": 30680.7,
-      "put_wall": 29192.6,
+      "put_wall": 28265.4,
       "vol_trigger": null,
-      "zero_gamma": 29785.0
+      "zero_gamma": 29956.7
     },
     "NQ_0DTE": {
-      "call_wall": 30192.6,
+      "call_wall": 30365.4,
       "large_gamma_1": 29780.7,
       "large_gamma_2": 29480.7,
       "large_gamma_3": 29850.7,
       "large_gamma_4": 29180.7,
-      "put_wall": 29192.6,
+      "put_wall": 29165.4,
       "vol_trigger": null,
-      "zero_gamma": 29750.5
+      "zero_gamma": 29717.5
     }
   },
   "pipeline": "v2.1+dashboard",
